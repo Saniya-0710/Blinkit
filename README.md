@@ -33,5 +33,5 @@ Outlet type analysis with metrics for total sales, number of items, average sale
 Interactive filters for Outlet Location Type, Outlet Size, and Item Type for customized analysis.
 
 6.Screenshot/ Demos
-Show what the dashboard looks like. - 1[Alt text]()
-Example: 1[Dashboard preview].()
+Show what the dashboard looks like. - 1[Alt text](https://github.com/Saniya-0710/Blinkit/blob/main/Blinkit%20dashboard%20SS.png)
+Example: 1[Dashboard preview].(https://github.com/Saniya-0710/Blinkit/blob/main/Blinkit%20dashboard%20SS.png)
